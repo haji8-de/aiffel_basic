@@ -1,14 +1,12 @@
 # 디렉토리 구조
 ```
 AIFFEL_quest_rs
-├── MainQuest
-│   ├── Quest01
-│   │   ├── .ipynb
-│   │   └── README.md
-.		.
-.		.
-.		.
-│   └── Quest05
+├── Exploration
+│   ├── Ex01
+│   .
+│   .
+│   .
+│   └── Ex08
 │       ├── .ipynb
 │       └── README.md
 ├── GoingDeeper
@@ -19,12 +17,14 @@ AIFFEL_quest_rs
 │   └── Deep09
 │       ├── .ipynb
 │       └── README.md
-├── Exploration
-│   ├── Ex01
-│   .
-│   .
-│   .
-│   └── Ex08
+├── MainQuest
+│   ├── Quest01
+│   │   ├── .ipynb
+│   │   └── README.md
+.		.
+.		.
+.		.
+│   └── Quest05
 │       ├── .ipynb
 │       └── README.md
 ├─  README.md
