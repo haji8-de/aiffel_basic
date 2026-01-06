@@ -8,7 +8,7 @@ AIFFEL_quest_rs
 .		.
 .		.
 .		.
-│   └── Quest05
+│   └── Quest08
 │       ├── .ipynb
 │       └── README.md
 ├── GoingDeeper
